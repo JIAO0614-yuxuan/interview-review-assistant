@@ -1,2 +1,3 @@
-# ai-interview-assistant
-大学生校级组织面试的AI模拟面试与简历诊断助手
+# ai-assistant
+面试失利AI辅助复盘助手
+<角色名>
