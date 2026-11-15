@@ -1,0 +1,31 @@
+# 密钥环境文件
+.env
+.env.local
+*.key
+*.pem
+*.secret
+
+# python缓存、虚拟环境
+venv/
+__pycache__/
+*.pyc
+
+# node项目
+node_modules/
+dist/
+build/
+
+# 数据库、大模型权重、数据集、大图片
+*.db
+*.sqlite
+*.bin
+*.pt
+*.pth
+*.onnx
+*.jpg
+*.jpeg
+*.png
+
+# IDE缓存
+.vscode/
+.idea/
